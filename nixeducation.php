@@ -17,7 +17,7 @@
         <nav class="navigation">
             <div class="container">
                 <h2 class="subheading">Меню</h2>
-                <a class="button" href="">Commit</a>
+                <a class="button" href="https://github.com/ira4356/nix/commit/b7c5c949cf563f9452e0e8c6302999c38ae6b226">Commit</a>
                 <br><br>
                 <h3><a title="Ссылка-заглушка">Урок 1</a></h3>
                 <br>
