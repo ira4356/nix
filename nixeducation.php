@@ -31,7 +31,7 @@
 
                 <h3><a href="form.php">Урок 3</a></h3>
                 <p>Форма обработки текста</p>
-                <a class="button" href="" target="_blank">Commit</a>
+                <a class="button" href="https://github.com/ira4356/nix/commit/0df02a798f39cdea1373addba8f87e55bd6ed14b" target="_blank">Commit</a>
             </div>
         </nav>
 
