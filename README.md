@@ -6,3 +6,5 @@
 Ссылка на 3 коммит: https://github.com/ira4356/nix/commit/a07b02466ab2944d2176c291293ae25c94976628
 
 Ссылка на 4 коммит: https://github.com/ira4356/nix/commit/7fc8d03344e3a8c37769ef90c67ffa1ae0d153b4
+
+Ссылка на 5 коммит: https://github.com/ira4356/nix/commit/ccfc1b8a298dd9e8a95e33340f61b7483ab8d337
