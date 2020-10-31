@@ -24,7 +24,9 @@
                 <a class="button" href="https://github.com/ira4356/nix/commit/a07b02466ab2944d2176c291293ae25c94976628" target="_blank">Commit</a>
                 <br><br>
 
-                <h3><a title="Ссылка-заглушка">Урок 2</a></h3>
+                <h3><a href="lesson2.php">Урок 2</a></h3>
+                <p>Веселая табличка умножения</p>
+                <a class="button" href="" target="_blank">Commit</a>
             </div>
         </nav>
 
