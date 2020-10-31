@@ -26,6 +26,11 @@
 
                 <h3><a href="lesson2.php">Урок 2</a></h3>
                 <p>Веселая табличка умножения</p>
+                <a class="button" href="https://github.com/ira4356/nix/commit/ccfc1b8a298dd9e8a95e33340f61b7483ab8d337" target="_blank">Commit</a>
+                <br><br>
+
+                <h3><a href="form.php">Урок 3</a></h3>
+                <p>Форма обработки текста</p>
                 <a class="button" href="" target="_blank">Commit</a>
             </div>
         </nav>

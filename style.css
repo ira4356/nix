@@ -140,3 +140,14 @@ tr, td {
     max-width: 1408px;
     text-align: center;
 }
+
+.form {
+    text-align: center;
+}
+
+.result {
+    margin: 0 0 56px;
+    font-size: 36px;
+    line-height: 80px;
+    text-align: center;
+}
