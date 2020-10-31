@@ -47,6 +47,14 @@
                     ?>
                 </tr>
             </table>
+            <br>
+            <a class="button" href="nixeducation.php">К списку всех уроков</a>
         </main>
+
+        <footer class="page-footer">
+            <div class="container">
+                <a class="footer-email" href="mailto:tsaruk4356@gmail.com">tsaruk4356@gmail.com</a>
+            </div>
+        </footer>
     </body>
 </html>
